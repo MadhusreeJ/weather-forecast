@@ -1,0 +1,2 @@
+### About this Project 
+This website is a weather forecasting site. Cities had been fetched through rest countries api and weather of those cities had been fetched through openweathermap api. The current weather of the city is displayed when clicking the button. 
